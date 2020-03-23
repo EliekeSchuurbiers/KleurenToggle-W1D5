@@ -1,0 +1,44 @@
+body{background-color: lightgray;}
+
+ul{
+    display: none;
+}
+img{
+border: solid;
+background-color: white;
+
+
+}
+.showMenu{
+    display: inline;
+     
+}
+
+.Dropdown:hover .DropCont{
+    display: inline;
+}
+li{
+    list-style:none ;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    border:solid 2px;
+}
+button{
+    width: 100px;
+}
+.white{
+    background-color: white;
+}
+.Red{
+    background-color: red;
+}
+.Orange{
+    background-color: orange;
+}
+.Green{
+    background-color: green;
+}
+.Blue{
+    background-color: blue;
+}
